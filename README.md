@@ -1,2 +1,3 @@
 Tata virtual internship 
-.doc 
+.docx file contains the qestions asked and there answers with visuals 
+
